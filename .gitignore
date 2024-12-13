@@ -5,3 +5,4 @@ linux-BeatmapExporter
 linux-BeatmapExporterCLI
 src/
 pkg/
+sync.sh
