@@ -1,6 +1,6 @@
 # Maintainer: ParsaGP <psrzp1386@gmail.com>
 pkgname=beatmapexporter-bin
-pkgver=2.2.4
+pkgver=2.2.5
 pkgrel=1
 pkgdesc="osu!lazer Beatmap Exporter utility"
 arch=("x86_64")
@@ -15,8 +15,8 @@ source=("https://github.com/kabiiQ/BeatmapExporter/releases/download/v${pkgver}/
         "https://github.com/kabiiQ/BeatmapExporter/releases/download/v${pkgver}/linux-BeatmapExporterCLI")
 noextract=()
 sha256sums=(
-    "221a00929f3e573c42083c26e341147e3590f49c531ad5e507a5f5999c43ae15"
-    "075b23070182a09ff6f8465c2c8e3450998d394ab4e3d17b66f181ed04c4d6d6"
+    "42a8db5ec3cb65772f8b6f50ea1f78cfeab1efb55e7371e1bf53eb636eda4d2b"
+    "3af34fcb5077bf33644bba45bd2eb9ddad896c47a39b5086ef4c051eaf803c19"
 )
 
 package() {
