@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Beatmap Exporter
+Comment=Export osu!lazer beatmaps to various formats
+Exec=/opt/beatmapexporter/beatmapexporter
+Icon=beatmapexporter
+Terminal=false
+Type=Application
+Categories=Utility;

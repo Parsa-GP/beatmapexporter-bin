@@ -1,8 +1,7 @@
-beatmapexporter-bin-2.2.4-1-x86_64.pkg.tar.zst
-beatmapexporter-bin-debug-2.2.4-1-x86_64.pkg.tar.zst
+beatmapexporter-bin-*-x86_64.pkg.tar.zst
+beatmapexporter-bin-debug-*-x86_64.pkg.tar.zst
 *.part
-linux-BeatmapExporter
-linux-BeatmapExporterCLI
+BeatmapExporter
+BeatmapExporterCLI
 src/
 pkg/
-sync.sh
