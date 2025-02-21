@@ -1,3 +1,6 @@
+# USE [aur page](https://aur.archlinux.org/packages/beatmapexporter-bin) ([git clone url](https://aur.archlinux.org/beatmapexporter-bin.git)) TO SEE CHANGES
+
+
 # beatmapexporter-bin
 ### [The Source Repo](https://github.com/kabiiQ/BeatmapExporter/) | [AUR Page](https://aur.archlinux.org/packages/beatmapexporter-bin)
 You can contribute to package with creating [an issue](https://github.com/Parsa-GP/beatmapexporter-bin/issues) in github or adding a comment in [AUR Page](https://aur.archlinux.org/packages/beatmapexporter-bin).
